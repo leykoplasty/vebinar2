@@ -24,7 +24,7 @@ def parser():
     serch_button = browser.find_element(By.CSS_SELECTOR , 'button[data-qa="search-button"').click()
     url_serch_form = browser.current_url
     #находим элементы с кнопкой "отклинутся и через цикл на все нажимаем
-    serch_buttons_response = browser.find_element(By.CSS_SELECTOR , 'a[data-qa="vacancy-serp__vacancy_response"')#.click()
+    serch_buttons_response = browser.find_elements(By.CSS_SELECTOR , 'a[data-qa="vacancy-serp__vacancy_response"')#.click()
     for serch_button_response in serch_buttons_response:
         serch_button_response.click()
     time.sleep(3)
