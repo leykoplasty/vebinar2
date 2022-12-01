@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "parse-glass4u",
+  "private_key_id": "918724208e9ae475382b935871f28f170287b3dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYSL6OU01IOHms\niWRxCCUr8bvQ0waWRrHuDEfRdkz0eaez+wsmcGc/4TfdH0RpbqzrbA9iZVDdPsru\n8X7EwaiBj+cIOLAQAC/21D/Ih1i6N6kKQq4VxMoadEhMfoYVIYEmfifYnZYdFgwx\niZPQwLi8r0w0H2ld05x7T0JgYXKruWfk0BDwlqbkJUjx6Zsw+wM8/ltNJLBkp4V1\nkyyTXtXR32xKugtGoIY/2Vapl7HKgKx/oRvH1fHLAJ7shiqTWE/tC6mecDztrv6W\n2ueZEj/LzbMQ4ZnNqbkwvNesdtoW9rj6v/Bj1pZ6LYp4ksohjQDzX6dj3Agg/EJt\nWexHYkYxAgMBAAECggEAJBG41seqyqQbx67cNDyQZ13wlSfii8YPX1mXyihZ1l8Z\nRnM8Ax0FC5eZ7n05LDrLaNCVvUHPmzPEB7/5/Xr8IUH3IBajNwsAUVeZCvNp4+OK\nnZRJHP1ZPFZWCI5ATnF64GXppLBArb964GHcecmoCAMCSuc0wwU772YIzADQ0xTv\nti7Y0jNP3S/DwbCLoVmXLw8pG3iyJ4/2eqbfkNMuryq9Nj1vw0A5wQ4IixddaWxB\nZxpka7QabKPF+PiSSwxXzUaxk0EEoQhp2tRf2laSks8O8h6+o1L3d0TcKisryY86\noUM3uvkbOZV7H0lGc4peDJp3+HVt/07UJagfouuRVQKBgQDQsutI3sfOCRgBI3K1\nzFEez2JFdpJWU+1UlPfGl3QnmTMNc01GvZtCYIy3RuyITAnVezIP54UDSVYfT3C6\nKYD4//dvwFw9DARQOHizk6nb/wOkwinRFN/SRyY76RyPCjYtZxEo2Hm8d9tI6Vy6\nLEVaQjgep4U+F9V2O8UCzBSbZQKBgQC6zIqmIvtthaq88fy398rt3xbNlsi/k73I\nBzAtOlrsp28xCibOCA/qKfhRgi2NIioW4WiHDpRoAKvR8xraM/nvD+ba51t/ge4v\nNkJUXdSYRV4oS7rPaYwhfwIM4Gj5z5h+3rgozFkChLHfc+syjIFszC80rXTqouib\neg4bOYWg3QKBgEBSlM/t0fk/tkVLjqRXp7zuQCSWqf2veltyWne74FIAFssTeYLP\nF5Y6ucQXOPm9Ld69TK24NrfPl5qo2l6WQij8g1/PEt7B4GZ1MUZvwY+LpqzWJxtI\n6r8drLwUWfgANriBprlHFyYubsinHCxJTsrF1BQmn5uGrwT04QC+s689AoGBAIhy\n4NR6uS5HdXCPUwsO9izLyNxkSD+oq/hxR7/B4Kj9pTstLytQuE9UWQ8xCBUP367W\n+IOvIrjVxKyX6AV78hWuh/NfDHcXceUKvWjjIWgZQ64ro0nez32oSNcfFY9lFP+X\nsO4cVuiABW40PpmuCNxwSgswqTa7yS3I+oTof7QBAoGARpAoxCNiFruTGwGDVEe+\n+ezJpgqV7JxDLNpLq0smO6rJCxfe58ACS2TY6Sb3SBLedg28isQ4fdf3PP+FSkfQ\nMuFmDcx0FfAA+W1MNnc4pzi0jxVYFSlmQkq+ootOCd5cCh5kigXnRTnDRyp/VZSR\nGLxeB+WGPrZYrIrL0Pi3S1U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-518@parse-glass4u.iam.gserviceaccount.com",
+  "client_id": "115983862451614205435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-518%40parse-glass4u.iam.gserviceaccount.com"
+}
