@@ -40,14 +40,16 @@ def parser(bot,message):
         serch_blocs_vac = browser.find_elements(By.CSS_SELECTOR, 'div[class="vacancy-serp-item__layout"')
         print(serch_blocs_vac)
         for serch_bloc_vac in serch_blocs_vac:
-            serch_button_response= serch_bloc_vac.find_element(By.CSS_SELECTOR, 'a[data-qa="vacancy-serp__vacancy_response"').click()
-            print(browser.current_url)
-            time.sleep(3)
+            try:
+                serch_button_response= serch_bloc_vac.find_element(By.CSS_SELECTOR, 'a[data-qa="vacancy-serp__vacancy_response"').click()
+                print(browser.current_url)
+            except StaleElementReferenceException:
+                continue
             if 'vacancyId' in browser.current_url:
                 browser.back()
                 time.sleep(3)
                 print('ff')
-                break
+                continue
             print(browser.current_url)
             vacancys = []
 
