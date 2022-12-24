@@ -1,11 +1,9 @@
 from selenium import webdriver
+from selenium.common import StaleElementReferenceException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import personal_data
 import time
-from oauth2client.service_account import ServiceAccountCredentials
-import httplib2
-import apiclient.discovery
+import gspread
 
 #импорт логина и пароля из файла personal_data
 username = personal_data.username
